@@ -1,1 +1,3 @@
 # JuventusMonitor
+This script was created to monitor access to the juventus website .....
+monitoring simply means trying authentication and access to the sections of the site ... it does not collect logs but replays an output if the site does not present problems and is navigable.
